@@ -1,0 +1,32 @@
+body, h1, ol {
+    margin: 0;
+    padding: 0;
+}
+
+.my-list {
+    background-color: #f7f381;
+    padding: 8px 24px;
+    width: 500px;
+    font-size: 30px;
+    border: 1px solid #f7f381;
+    box-shadow: 0 0 10px 2px #333333;
+    margin: 12px auto; 
+}
+
+h1 {
+    text-align: center; 
+}
+
+ol {
+    margin: 12px;
+    padding: 0; 
+    list-style-position: inside; 
+}
+
+li {
+    margin-bottom: 10px; 
+}
+
+.center-text {
+    text-align: center; 
+}
